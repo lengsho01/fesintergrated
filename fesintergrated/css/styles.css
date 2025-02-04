@@ -1,0 +1,60 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+#welcome{
+    background-color: rgb(59, 210, 167);
+  
+    
+}
+#menu{
+    background-color: rgb(71, 122, 122);
+    text-align: right;
+    padding: 10px 30px;
+    margin-bottom: 5px;
+    border-radius: 10px;
+    font-weight: 600;
+    
+    
+}
+#menu a:hover{
+    background-color: rgb(196, 224, 217);
+    border-radius: 10px;
+}
+a{
+    text-decoration: none;
+    margin: 10px;
+}
+#bodi{
+    background-color: blueviolet;
+    margin: top 5px ;
+    border-radius: 5px;
+    padding: 100px;
+    width: auto;
+    height: 400px;
+    
+    text-align: center;
+}
+#bodi h1{
+    color: aliceblue;
+    font-size: 24;
+    text-decoration: none;
+    margin: 10px;
+  
+}
+#bodi a{
+    background-color: rgb(138, 232, 211);
+    padding: 10px;
+    border-radius: 10px;
+    display: inline-block;
+    
+}
+#bodi a:hover{
+    background-color: rgb(190, 234, 224);
+}
+#plants h1{
+    text-align: center;
+    font-weight: 500;
+    margin-top: 30px;
+}
